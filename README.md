@@ -32,7 +32,7 @@ e) Multi Layer Perceptron
 
 Deep Learning Implemented:
 a) Autoencoder
-b) CNN-LSTM
+b) CNN_LSTM
 
 
 
