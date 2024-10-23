@@ -1,11 +1,11 @@
 1) Problem Statement
-The goal of this project is to " predict the potentially fraudulent providers " based on the claims filed by them. Along with this, we will also discover important variables helpful in detecting the behaviour of potentially fraud providers. Further, we will study fraudulent patterns in the provider's claims to understand the future behaviour of providers.
+The goal of this project is to " predict the potentially fraudulent Healthcare providers " based on the claims filed by them. Along with this, we will also discover important variables helpful in detecting the behaviour of potentially fraud providers. Further, we will study fraudulent patterns in the provider's claims to understand the future behaviour of providers.
 
 
 2) Dataset
 
 Introduction to the Dataset
-For the purpose of this project, we are considering Inpatient claims, Outpatient claims and Beneficiary details of each provider. Lets s see their details :
+For the purpose of this project, we are considering Inpatient claims, Outpatient claims and Beneficiary details of each provider. Let's see their details :
 
 A) Inpatient Data
 
@@ -28,11 +28,11 @@ a) Logistic Regression
 b) Random Forest
 c) XG Boost
 d) LightGBM
-e) Multi Layer Perceptron
+
 
 Deep Learning Implemented:
-a) Autoencoder
-b) CNN_LSTM
+a) Multi-Layer Perceptron
+b) Autoencoder
 
 
 
